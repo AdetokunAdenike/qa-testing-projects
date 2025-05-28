@@ -1,6 +1,6 @@
 # SauceDemo Manual Testing
 
-This project contains manual test cases and optional screenshots for testing the [SauceDemo website](https://www.saucedemo.com/).
+This project contains manual test cases and screenshots for testing the [SauceDemo website](https://www.saucedemo.com/).
 
 ## 📁 Contents
 
